@@ -1,4 +1,4 @@
-model_name: "google/gemma-2-2B-it"
+model_name: "Qwen/Qwen2.5-Math-1.5B"
 learning_rate: 0.000005  # 5e-6로 변경
 epochs_stage_1: 2
 epochs_stage_2: 3
